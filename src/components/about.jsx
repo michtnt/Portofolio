@@ -43,19 +43,19 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web and Mobile Application Development </h3>
-                    <p>I have experience building websites with React.js and building mobile app with React Native.</p>
+                    <h3>Web & Mobile Apps Development </h3>
+                    <p>Experienced in building websites with React.js and mobile applications with React Native.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-book2" />
                 </span>
                 <div className="desc">
-                    <h3>Teaching</h3>
-                    <p>I have experience in teaching kids and adults on IT related subjects (Programming, Software, Interaction Design, etc.)</p>
+                    <h3>Teaching / Tutoring</h3>
+                    <p>Experienced in teaching kids and adults on IT subjects, programming, UI/UX design, etc.</p>
                 </div>
                 </div>
             </div>
@@ -65,45 +65,45 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Backend</h3>
-                    <p>I have experience coding at backend with Node.js, MongoDB, SQL and Python to conduct tests.</p>
+                    <h3>Backend Development</h3>
+                    <p>Experienced in coding at backend with Node.js, MongoDB, SQL and Python to conduct tests.</p>
                 </div>
                 </div>
             </div>
             
-            {/* <div className="col-md-4 text-center animate-box">
+            <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
+                    <h3>UI/UX Design</h3>
+                    <p>Experienced in designing websites and mobile applications UI/UX with Adobe XD and Figma.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                 <span className="icon">
-                    <i className="icon-layers2" />
+                    <i className="icon-video2" />
                 </span>
                 <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
+                    <h3>Videography and Video Editing</h3>
+                    <p>Experienced in shooting and editing videos with Final Cut Pro. I am a freelance videographer for commercial and events during highschool.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-clock3" />
                 </span>
                 <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <h3>Time and Task Management</h3>
+                    <p>In my opinion, this is the best soft skills I have. I am very good at managing my time at get my task done before the setted deadline.</p>
                 </div>
                 </div>
-            </div> */}
+            </div>
            
             </div>
         </div>
