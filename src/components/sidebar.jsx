@@ -17,9 +17,9 @@ export default class Sidebar extends Component {
                 <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
-                  {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
-                  <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
+                  <li><a href="#projects" data-nav-section="projects">Projects</a></li>
+                  {/* <li><a href="#blog" data-nav-section="blog">Blog</a></li> */}
                 </ul>
               </div>
             </nav>
@@ -33,7 +33,7 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-wine" aria-hidden="true"></i><br></br>
+                  Made with <i className="icon-coffee" aria-hidden="true" /> and <i className="icon-code" aria-hidden="true"></i><br></br>
               </small></p>
               <p><small>
                 Software Developer, Academic Tutor, UI/UX Enthusiast and Videographer.
