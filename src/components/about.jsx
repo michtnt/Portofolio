@@ -20,7 +20,7 @@ export default class About extends Component {
                     </p>
                     <p>
                     I am open to new opportunities, and I am available to work remotely/Sydney-based. 
-                    Hit me up if you have any projects you want to discuss with me or simply grabbing a coffee!                    </p>
+                    Hit me up if you have any projects you want to discuss with me or simply grabbing a coffee!</p>
                     </div>
                 </div>
                 </div>
