@@ -13,6 +13,23 @@ export default class Projects extends Component {
 							</div>
 						</div>
 						<div className="row">
+						<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="work.html">ChemTracker (In Progress)</a></h3>
+											<span>Mobile Application</span>
+											<p className="icon">
+												<span><a href="https://github.com/tanoto-the-explorer/ChemTracker"><i className="icon-github" /></a></span>
+												<span><a>ReactNative</a></span>
+												{/* <span><a>MongoDB</a></span>
+												<br />
+												<span><a>Node.js</a></span> */}
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/cookbook.png)'}}>
 									<div className="desc">
