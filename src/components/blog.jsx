@@ -25,7 +25,7 @@ export default class Blog extends Component {
 					</div> */}
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-2.png" className="img-responsive" alt="Image on Process" /></a>
+						<a href="blog.html" className="blog-img"><img src="images/blog-2.1.png" className="img-responsive" alt="Image on Process" /></a>
 						<div className="desc">
 							<span><small>July 4, 2020 </small> | <small> Experience </small><i className="icon-pencil"/></span>
 							<h3><a href="blogs/blog2.html">First Hackathon</a></h3>
