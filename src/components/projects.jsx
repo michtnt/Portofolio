@@ -14,7 +14,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/chemtracker.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">ChemTracker (In Progress)</a></h3>
