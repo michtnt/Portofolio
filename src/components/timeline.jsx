@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Developer <span>Mar 2020 - Present</span></h2>
+                        <h2>Junior Software Developer <span>Mar 2020 - Present</span></h2>
                         <p> I use React.js, React Native, MongoDB, Node.js, Python for tests and 
                           I need to learn how to use Angular.js and AWS. In this role, I assist the Development Manager 
                           with all aspects of software design and coding, writing and maintaining code,
@@ -54,7 +54,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Teacher Asssitant <span>Feb 2020 - Present</span></h2>
+                        <h2>Teacher Asssitant <span>Feb 2020 - Jul 2020</span></h2>
                         <p>In this role, I worked as a casual teacher assistant 
                           to teach kids the base knowledge of coding and improve their logical thinking.
                         </p>
@@ -67,7 +67,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Peer Tutor <span>Jul 2019 - Present</span></h2>
+                        <h2>Peer Tutor <span>Jul 2019 - Jul 2020</span></h2>
                         <p>In this role, I assist students as a Peer Tutor on 
                           Application Programming subject. The subject requires 
                           students to practice object-oriented programming 
