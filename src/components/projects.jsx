@@ -14,14 +14,30 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<div className="project" style={{backgroundImage: 'url(images/fastcoverletter.png)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="https://github.com/tanoto-the-explorer/Fast-Cover-Letter">Fast Cover Letter (In Progress)</a></h3>
+											<span>Short Program (Possibly AI integration in the future.)</span>
+											<p className="icon">
+												<span><a href="https://github.com/tanoto-the-explorer/Fast-Cover-Letter"><i className="icon-github" /></a></span>
+												<span><a>Python</a></span>
+												<span><a>Private</a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/chemtracker.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">ChemTracker (In Progress)</a></h3>
+											<h3><a href="https://github.com/tanoto-the-explorer/Additify">Additify (In Progress)</a></h3>
 											<span>Mobile Application</span>
 											<p className="icon">
-												<span><a href="https://github.com/tanoto-the-explorer/ChemTracker"><i className="icon-github" /></a></span>
+												<span><a href="https://github.com/tanoto-the-explorer/Additify"><i className="icon-github" /></a></span>
 												<span><a>ReactNative</a></span>
+												<span><a>Private</a></span>
 												{/* <span><a>MongoDB</a></span>
 												<br />
 												<span><a>Node.js</a></span> */}
@@ -34,7 +50,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/cookbook.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Cook-Book</a></h3>
+											<h3><a href="https://github.com/tanoto-the-explorer/Cook-Book">Cook-Book</a></h3>
 											<span>Mobile Application</span>
 											<p className="icon">
 												<span><a href="https://github.com/tanoto-the-explorer/Cook-Book"><i className="icon-github" /></a></span>
@@ -51,7 +67,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/madmama.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Mad Mama</a></h3>
+											<h3><a href="https://github.com/tanoto-the-explorer/Mad-Mama">Mad Mama</a></h3>
 											<span>Game</span>
 											<p className="icon">
 												<span><a href="https://github.com/tanoto-the-explorer/Mad-Mama"><i className="icon-github" /></a></span>
@@ -68,7 +84,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/melbourne.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Melbourne</a></h3>
+											<h3><a href="https://youtu.be/r6iGIZ8Tg3w">Melbourne</a></h3>
 											<span>Videography and Video Editing</span>
 											<p className="icon">
 												<span><a href="https://youtu.be/r6iGIZ8Tg3w"><i className="icon-youtube" /></a></span>
@@ -79,51 +95,6 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div> */}
 						</div>
 						{/* <div className="row">
 							<div className="col-md-12 animate-box">
