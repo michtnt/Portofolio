@@ -17,12 +17,11 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/fastcoverletter.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://github.com/tanoto-the-explorer/Fast-Cover-Letter">Fast Cover Letter (In Progress)</a></h3>
+											<h3><a href="https://github.com/tanoto-the-explorer/Fast-Cover-Letter">Fast Cover Letter</a></h3>
 											<span>Short Program (Possibly AI integration in the future.)</span>
 											<p className="icon">
 												<span><a href="https://github.com/tanoto-the-explorer/Fast-Cover-Letter"><i className="icon-github" /></a></span>
 												<span><a>Python</a></span>
-												<span><a>Private</a></span>
 											</p>
 										</div>
 									</div>
@@ -32,15 +31,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/chemtracker.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://github.com/tanoto-the-explorer/Additify">Additify (In Progress)</a></h3>
+											<h3><a href="https://github.com/tanoto-the-explorer/Additify">Additify</a></h3>
 											<span>Mobile Application</span>
 											<p className="icon">
 												<span><a href="https://github.com/tanoto-the-explorer/Additify"><i className="icon-github" /></a></span>
 												<span><a>ReactNative</a></span>
-												<span><a>Private</a></span>
-												{/* <span><a>MongoDB</a></span>
-												<br />
-												<span><a>Node.js</a></span> */}
+												<span><a>TesseractOCR</a></span>
 											</p>
 										</div>
 									</div>
