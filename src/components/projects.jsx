@@ -28,7 +28,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/chemtracker.png)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/additify.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://github.com/tanoto-the-explorer/Additify">Additify</a></h3>
