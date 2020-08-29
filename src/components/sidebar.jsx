@@ -27,7 +27,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.youtube.com/channel/UC7qnwX8U8_AsNO2-bJvS6Mw?view_as=subscriber" target="_blank" rel="noopener noreferrer"><i className="icon-youtube" /></a></li>
                 <li><a href="https://www.instagram.com/tanoto.mich/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/michelle-tanoto-8a2732181/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                <li><a href="https://www.linkedin.com/in/michelletanoto/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/tanoto-the-explorer" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
             </nav>
