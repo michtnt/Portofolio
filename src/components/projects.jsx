@@ -29,14 +29,14 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="https://github.com/tanoto-the-explorer/Additify">
+                        <a href="https://github.com/michtnt/Additify">
                           Additify
                         </a>
                       </h3>
                       <span>Mobile Application</span>
                       <p className="icon">
                         <span>
-                          <a href="https://github.com/tanoto-the-explorer/Additify">
+                          <a href="https://github.com/michtnt/Additify">
                             <i className="icon-github" />
                           </a>
                         </span>
@@ -62,14 +62,14 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="https://github.com/tanoto-the-explorer/Cook-Book">
+                        <a href="https://github.com/michtnt/Cook-Book">
                           Cook-Book
                         </a>
                       </h3>
                       <span>Mobile Application</span>
                       <p className="icon">
                         <span>
-                          <a href="https://github.com/tanoto-the-explorer/Cook-Book">
+                          <a href="https://github.com/michtnt/Cook-Book">
                             <i className="icon-github" />
                           </a>
                         </span>

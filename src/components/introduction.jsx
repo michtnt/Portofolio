@@ -69,7 +69,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://github.com/tanoto-the-explorer"
+                              href="https://github.com/michtnt"
                               target="_blank"
                               rel="noopener noreferrer"
                             >

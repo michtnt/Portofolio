@@ -68,7 +68,7 @@ export default class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/tanoto-the-explorer"
+                    href="https://github.com/michtnt"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
